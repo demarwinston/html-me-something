@@ -1,0 +1,46 @@
+body {
+    background-image: url('71734913_10220550505621577_8637616442746863616_o.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto;
+  }
+.highlight {
+  font-size: 45px;
+}
+
+
+body {
+    font-size: 30px;
+}
+
+img {
+    border: 5px solid red;
+}
+
+#p01 {
+    color: black;
+ }
+
+ h1 {
+    text-shadow: 2px 2px #FF0000;
+  }
+ 
+     .highlight {
+     color: black;
+}
+
+p {
+    text-shadow: 2px 2px #FF0000;
+  }
+
+figure {
+    text-align: center;
+    
+}
+figcaption {
+    background-color: transparent;
+    color: white;
+    font-style: impact;
+    padding: 2px;
+    text-align: center;
